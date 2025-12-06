@@ -4,7 +4,7 @@
 
 Simply send a photo of your receipt to the Telegram Bot, and the AI will automatically extract the transaction details (Store, Date, Items, Total) and save them to your database. You can then monitor, edit, and analyze your finances through a professional **Web Dashboard**.
 
-Dashboard Preview (image.png)
+[Dashboard Preview] ![alt text](image.png)
 
 ## ✨ Key Features
 
