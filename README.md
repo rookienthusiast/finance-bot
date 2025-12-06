@@ -93,4 +93,3 @@ Feel free to fork this project and submit Pull Requests. Any contributions to im
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-# finance-tracker
